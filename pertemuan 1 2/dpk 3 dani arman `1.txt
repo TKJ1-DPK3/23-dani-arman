@@ -1,0 +1,6 @@
+print ("hello world")
+nama = input("masukkan nama kamu: ")
+umur = input("masukan usia mu: ")
+jurusan = input("jurusan mu: ")
+hobi = input("hobi: ")
+print("halo, dani arman, umur mu 16 tahun, jurusan TKJ, hobi mu bermain game")
