@@ -1,5 +1,0 @@
-print ("helloworld")
-print ("perkenalkan nama saya dani arman")
-print ("saya dari jurusan TKJ 1")
-print ("hoby saya bermain game di rumah")
-print ("sekian dari saya ")
